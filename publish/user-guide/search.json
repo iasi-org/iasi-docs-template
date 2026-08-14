@@ -1,0 +1,116 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IASI Documentation Template User Guide",
+    "section": "",
+    "text": "IASI Documentation Template\nEsta es la guía de usuario de IASI Documentation Template.\nMientras se desarrolla, puedes consultar el repositorio del proyecto.",
+    "crumbs": [
+      "Introducción",
+      "IASI Documentation Template"
+    ]
+  },
+  {
+    "objectID": "index.html#documentación-pendiente",
+    "href": "index.html#documentación-pendiente",
+    "title": "IASI Documentation Template User Guide",
+    "section": "Documentación pendiente",
+    "text": "Documentación pendiente\nEsta guía todavía no está escrita. Su estructura ya está preparada para publicar contenido en HTML y PDF.",
+    "crumbs": [
+      "Introducción",
+      "IASI Documentation Template"
+    ]
+  },
+  {
+    "objectID": "chapters/01-intro/index.html",
+    "href": "chapters/01-intro/index.html",
+    "title": "1  Introducción",
+    "section": "",
+    "text": "1.1 Contenido pendiente\nEsta introducción presenta el propósito del producto y orienta a quien comienza a utilizarlo.\nExplica aquí qué problema resuelve el producto, para quién está pensado y qué encontrará la persona lectora en la guía.",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-intro/index.html#contenido-pendiente-1",
+    "href": "chapters/01-intro/index.html#contenido-pendiente-1",
+    "title": "1  Introducción",
+    "section": "2.1 Contenido pendiente",
+    "text": "2.1 Contenido pendiente\nDescribe aquí el primer recorrido funcional por el producto.",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-conceptos/index.html",
+    "href": "chapters/02-conceptos/index.html",
+    "title": "2  Conceptos",
+    "section": "",
+    "text": "2.1 Contenido pendiente\nEste capítulo introduce las ideas necesarias para utilizar el producto con criterio.\nResume aquí los conceptos que se desarrollarán en las secciones del capítulo.",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Conceptos</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-conceptos/index.html#contenido-pendiente-1",
+    "href": "chapters/02-conceptos/index.html#contenido-pendiente-1",
+    "title": "2  Conceptos",
+    "section": "3.1 Contenido pendiente",
+    "text": "3.1 Contenido pendiente\nDefine aquí el vocabulario, las entidades y las relaciones principales desde la perspectiva de uso.",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Conceptos</span>"
+    ]
+  },
+  {
+    "objectID": "common/manifesto.html#nuestra-aproximación",
+    "href": "common/manifesto.html#nuestra-aproximación",
+    "title": "Apéndice A — Manifiesto",
+    "section": "A.1 Nuestra aproximación",
+    "text": "A.1 Nuestra aproximación\nIASI no parte de una metodología predefinida. Partimos del problema sin precondiciones. Creemos que la aparición de los Sistemas Inteligentes obliga a replantear cómo hacemos ingeniería y, por tanto, no queremos asumir que las metodologías actuales constituyan, por sí solas, la respuesta.\n\nNo adoptamos metodologías para resolver problemas. Partimos de los problemas para descubrir la metodología.\n\nCada necesidad será analizada de forma independiente.\n\nSi una metodología existente ofrece una buena respuesta, la utilizaremos.\nSi necesita adaptarse, la adaptaremos.\nSi varias aportan valor, las combinaremos.\nY cuando ninguna resulte suficiente, construiremos una nueva.\n\nNo buscamos una metodología universal. Buscamos la mejor solución para cada problema.",
+    "crumbs": [
+      "Introducción",
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Manifiesto</span>"
+    ]
+  },
+  {
+    "objectID": "common/manifesto.html#el-viaje-también-es-conocimiento",
+    "href": "common/manifesto.html#el-viaje-también-es-conocimiento",
+    "title": "Apéndice A — Manifiesto",
+    "section": "A.2 El viaje también es conocimiento",
+    "text": "A.2 El viaje también es conocimiento\nIASI no solo publica resultados. También documenta el camino recorrido:\n\nlas decisiones de arquitectura;\nlos experimentos;\nlas dudas;\nlos errores;\nlos cambios de dirección;\nlas herramientas descartadas;\nlas ideas que funcionaron y las que no.\n\nCreemos que comprender cómo se construye una solución es tan valioso como la propia solución.\nPor eso, en IASI, el viaje también forma parte del producto.",
+    "crumbs": [
+      "Introducción",
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Manifiesto</span>"
+    ]
+  },
+  {
+    "objectID": "common/manifesto.html#un-proyecto-abierto",
+    "href": "common/manifesto.html#un-proyecto-abierto",
+    "title": "Apéndice A — Manifiesto",
+    "section": "A.3 Un proyecto abierto",
+    "text": "A.3 Un proyecto abierto\nIASI nace como una iniciativa personal, pero no pretende ser un proyecto personal. Está concebido para crecer de forma abierta, incorporando nuevas ideas, herramientas, metodologías y colaboradores.\nToda aportación fundamentada será bienvenida.\nPorque creemos que la Ingeniería Asistida por Sistemas Inteligentes solo puede construirse desde la colaboración, el pensamiento crítico y la experimentación.\n\nLa mejor metodología no es la que seguimos, sino la que descubrimos mientras resolvemos el problema adecuado.",
+    "crumbs": [
+      "Introducción",
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Manifiesto</span>"
+    ]
+  },
+  {
+    "objectID": "common/principles.html",
+    "href": "common/principles.html",
+    "title": "Apéndice B — Decálogo IASI",
+    "section": "",
+    "text": "Los principios que orientan el diseño, desarrollo y evolución de IASI.\n\n\n\n1. La ingeniería es el objetivo.\n\nLas herramientas, tecnologías y sistemas inteligentes son medios. El objetivo sigue siendo resolver problemas mediante una ingeniería rigurosa, comprensible y sostenible.\n\n\n\n2. Los Sistemas Inteligentes son asistentes de ingeniería.\n\nNo son únicamente herramientas de generación. Pueden participar en el análisis, diseño, implementación, validación y evolución del sistema como parte activa del proceso de ingeniería.\n\n\n\n3. El conocimiento debe ser abierto.\n\nLas decisiones, aprendizajes y resultados deben poder compartirse, discutirse y reutilizarse siempre que sea posible.\n\n\n\n4. La documentación es un artefacto de ingeniería.\n\nDocumentar no es una actividad posterior al desarrollo. La documentación forma parte del sistema y de su proceso de construcción.\n\n\n\n5. La automatización debe ser consecuencia del diseño, no un fin en sí misma.\n\nAutomatizar tiene valor cuando simplifica un proceso correctamente entendido y diseñado. Automatizar un proceso deficiente solo permite equivocarse más deprisa.\n\n\n\n6. Los componentes deben ser reutilizables.\n\nCuando una solución puede generalizarse, debe convertirse en un componente capaz de servir a otros proyectos y contextos.\n\n\n\n7. Las decisiones deben poder cuestionarse.\n\nNinguna decisión se considera correcta por autoridad o costumbre. Debe poder explicarse, revisarse y sustituirse cuando aparezca una alternativa mejor.\n\n\n\n8. La metodología también evoluciona.\n\nLa metodología no es un marco rígido impuesto al problema. Aprende de la experiencia y cambia cuando la evidencia demuestra que existe una forma mejor de trabajar.\n\n\n\n9. El contexto debe ser explícito, compartido y gobernado.\n\nUn Sistema Inteligente solo puede participar de forma fiable en ingeniería cuando dispone del contexto adecuado. Ese contexto debe formar parte explícita del proceso y poder mantenerse, compartirse y controlarse.\n\n\n\n10. La complejidad debe encapsularse, no trasladarse al usuario.\n\nUna solución puede ser internamente sofisticada, pero esa complejidad no debe convertirse innecesariamente en complejidad de uso. La buena ingeniería ofrece interfaces simples sobre mecanismos complejos.",
+    "crumbs": [
+      "Introducción",
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Decálogo IASI</span>"
+    ]
+  }
+]
