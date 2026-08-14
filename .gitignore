@@ -1,0 +1,33 @@
+# Quarto state and generated build output
+**/.quarto/
+**/_book/
+**/_outputs/
+**/*_files/
+**/.jupyter_cache/
+**/_freeze/
+
+# Logs and local configuration
+logs/
+*.log
+_*.local
+
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+~$*
+**/*.quarto_ipynb
+
+# publish/ is intentionally versioned for GitHub Pages.
+.Rproj.user

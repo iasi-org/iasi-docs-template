@@ -1,0 +1,7 @@
+Este capítulo introduce las ideas necesarias para utilizar el producto con criterio.
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Resume aquí los conceptos que se desarrollarán en las secciones del capítulo.
+:::

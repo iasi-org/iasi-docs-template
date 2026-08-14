@@ -1,0 +1,7 @@
+Este capítulo presenta el modelo conceptual sobre el que se apoya la implementación.
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Resume aquí los conceptos técnicos que se desarrollarán en las secciones siguientes.
+:::

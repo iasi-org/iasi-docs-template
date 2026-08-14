@@ -1,0 +1,7 @@
+# Primeros pasos
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Describe aquí el primer recorrido funcional por el producto.
+:::

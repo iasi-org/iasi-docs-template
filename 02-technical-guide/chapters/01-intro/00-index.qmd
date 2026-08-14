@@ -1,0 +1,7 @@
+Esta introducción sitúa el producto dentro del ecosistema y delimita el alcance de su documentación técnica.
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Explica aquí los objetivos de ingeniería, el contexto del sistema y las decisiones que condicionan su diseño.
+:::

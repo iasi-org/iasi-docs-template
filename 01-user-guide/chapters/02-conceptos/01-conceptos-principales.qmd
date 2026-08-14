@@ -1,0 +1,7 @@
+# Conceptos principales
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Define aquí el vocabulario, las entidades y las relaciones principales desde la perspectiva de uso.
+:::

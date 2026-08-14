@@ -1,0 +1,7 @@
+Esta introducción presenta el propósito del producto y orienta a quien comienza a utilizarlo.
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Explica aquí qué problema resuelve el producto, para quién está pensado y qué encontrará la persona lectora en la guía.
+:::
