@@ -1,33 +1,75 @@
-# Quarto state and generated build output
-**/.quarto/
-**/_book/
-**/_outputs/
-**/*_files/
-**/.jupyter_cache/
-**/_freeze/
+# ==============================================================================
+# Quarto
+# ==============================================================================
 
-# Logs and local configuration
-logs/
-*.log
-_*.local
+# Estado interno y caché de Quarto
+/.quarto/
 
-# R and RStudio
-.Rproj.user/
+# Salida predeterminada de Quarto Book
+/_book/
+
+# Salida personalizada que utilizaremos
+/_outputs/
+
+# Configuración local y posibles secretos
+/_*.local
+
+
+# ==============================================================================
+# R y RStudio
+# ==============================================================================
+
+# Estado local del proyecto RStudio
+/.Rproj.user/
+
+# Historial y espacio de trabajo local de R
 .Rhistory
 .RData
 .Ruserdata
 
-# Editors and operating systems
-.DS_Store
+
+# ==============================================================================
+# Sistema operativo
+# ==============================================================================
+
+# Windows
 Thumbs.db
 Desktop.ini
+
+# macOS
+.DS_Store
+
+# ==============================================================================
+# Archivos temporales que todavia no sabemos por que se generan
+# ==============================================================================
+
+ /chapters/**/*_files/
+
+# ==============================================================================
+# Archivos temporales de editores
+# ==============================================================================
+
 *~
 *.swp
 *.swo
 *.tmp
 *.bak
+*.zip
 ~$*
 **/*.quarto_ipynb
 
-# publish/ is intentionally versioned for GitHub Pages.
-.Rproj.user
+# Quarto
+.quarto/
+
+# Renderizados
+_site/
+_book/
+
+# Caché
+_cache/
+
+# Logs
+*.log
+
+# Codex
+.codex*
