@@ -1,0 +1,28 @@
+project:
+  type: book
+
+metadata-files:
+  - _book-structure.yml
+
+book:
+  title: "IASI Documentation Template User Guide"
+  subtitle: "IASI documentation"
+  author: "IASI Project"
+  repo-url: https://github.com/iasi-org/iasi-docs-template
+  appendices:
+    - common/manifesto.qmd
+    - common/principles.qmd
+
+format:
+  html:
+    toc: true
+    number-sections: true
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+    colorlinks: false
+    include-in-header: resources/tex/title-page.tex
+
+execute:
+  freeze: auto

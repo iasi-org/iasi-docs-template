@@ -1,0 +1,7 @@
+# Modelo conceptual
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Define aquí los componentes, invariantes, estados y relaciones fundamentales del sistema.
+:::

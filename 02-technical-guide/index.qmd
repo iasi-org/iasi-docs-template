@@ -1,0 +1,11 @@
+# IASI Documentation Template {.unnumbered}
+
+Esta es la guía técnica de **IASI Documentation Template**.
+
+::: {.iasi-pending}
+## Documentación pendiente
+
+Esta guía todavía no está escrita. Su estructura ya está preparada para documentar la arquitectura y publicar el resultado en HTML y PDF.
+:::
+
+Mientras se desarrolla, puedes consultar el [repositorio del proyecto](https://github.com/iasi-org/iasi-docs-template).

@@ -1,0 +1,7 @@
+# Visión técnica
+
+::: {.iasi-pending}
+## Contenido pendiente
+
+Describe aquí los límites del sistema, sus responsabilidades y su relación con otros componentes.
+:::
